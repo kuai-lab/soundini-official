@@ -1,2 +1,2 @@
 # soundini-official
-We will release the code on May.
+We will release the code in May.
